@@ -1,0 +1,8 @@
+﻿  map.cpp
+D:\C++\Terris\map.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Terris\map.cpp(193,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Terris\map.cpp(201,15): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Terris\map.cpp(205,24): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Terris\map.cpp(218,24): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Terris\map.cpp(227,23): warning C4018: '<': signed/unsigned mismatch
+  Block.vcxproj -> D:\C++\Terris\Debug\Block.exe

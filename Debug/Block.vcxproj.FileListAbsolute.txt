@@ -1,0 +1,4 @@
+D:\C++\Block\Debug\Block.exe
+D:\C++\Block\Debug\Block.pdb
+D:\C++\Terris\Debug\Block.exe
+D:\C++\Terris\Debug\Block.pdb
